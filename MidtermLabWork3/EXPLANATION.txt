@@ -1,0 +1,5 @@
+In my program, I first ask the user to enter the file path of the CSV dataset. After that, the program reads the
+file and looks for the header that contains the word “Candidate”, then it stores the following rows as records.
+Once the data is loaded, I display the total number of records and show the first 10 rows so the user can see
+a preview of the dataset. Lastly, I convert the records into JSON format by organizing each row into key–
+value pairs and printing the JSON output.
